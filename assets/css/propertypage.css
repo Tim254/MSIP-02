@@ -110,6 +110,14 @@ footer {
     background-image: linear-gradient(to left, black, orange);
     margin: 20px 0; }
 
-.footerlinks {
+.footericons {
     display: flex;
+    place-items: centre;
+    margin: 100px 100px;
+    width: 25%;
+}
+
+.footerlinks {
+    /* display: grid;
+    place-items: center; */
 }
