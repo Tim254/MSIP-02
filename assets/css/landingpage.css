@@ -100,7 +100,7 @@ nav ul li a:hover {
         padding: 10px;
 }
 .sec3header {
-    margin: 100px;
+    margin: 150px;
     padding-top: 100px;
 }
     
@@ -113,7 +113,7 @@ nav ul li a:hover {
 }
 .section3 {
     background-color: #EFEFEF;
-    padding-bottom: 0;
+    margin: 0;
 }
 
 .movers {
@@ -122,7 +122,8 @@ nav ul li a:hover {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin: 0 50px 0 50px;
+    margin: 0 70px 0 70px;
+    padding-bottom: 30px;
 }
 .movers-divs {
     padding: 0 40px 40px;
@@ -137,7 +138,7 @@ nav ul li a:hover {
 footer {
     margin: 0;
     color: #EFEFEF;
-    background-color: #1E0411;
+    background-image: linear-gradient(black,#1E0411);
 }
 footer a {
     text-decoration: none;
