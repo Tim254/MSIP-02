@@ -75,3 +75,41 @@ table {
 .featuresline {
     margin: 25px 0;
 }
+.similarlistins {
+    margin: 60px 100px;
+}
+.lists {
+    display: flex;
+    
+}
+.maltohouse {
+    padding-right: 20px;
+}
+footer {
+    /* margin: 80px 100px; */
+    color: #EFEFEF;
+    background-color: #1E0411;
+}
+.footerheader {
+    display: flex;
+    justify-content: space-between;
+    margin: 60px 100px;
+    padding-top: 60px;
+}
+.footerbutton {
+    background-color: #FFB319;
+    color: white;
+}
+.spanfooter {
+    color: #DF711B;
+}
+#similar-listins-line {
+    height: 3px;
+    width: 130px;
+    border: none;
+    background-image: linear-gradient(to left, black, orange);
+    margin: 20px 0; }
+
+.footerlinks {
+    display: flex;
+}
