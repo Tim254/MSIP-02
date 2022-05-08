@@ -84,6 +84,13 @@ table {
 }
 .maltohouse {
     padding-right: 20px;
+
+}
+.iconimages {
+    display: inline-flex;
+    justify-content: center;
+    padding: 5px 25px;
+
 }
 footer {
     /* margin: 80px 100px; */
@@ -110,14 +117,18 @@ footer {
     background-image: linear-gradient(to left, black, orange);
     margin: 20px 0; }
 
+.footeritems {
+    display: flex;
+}
+
 .footericons {
     display: flex;
-    place-items: centre;
     margin: 100px 100px;
-    width: 25%;
+    padding-left: 20px;
+    width: 30%;
+    float: left;
 }
 
 .footerlinks {
-    /* display: grid;
-    place-items: center; */
-}
+ margin: 30px;
+ padding: 30px;
