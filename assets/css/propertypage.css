@@ -42,8 +42,14 @@ td {
     border-radius: 0px 20px 0px 0px;
     border: none;
 }
-#white-arrow {
-    margin-top: 10px;
+#profilebutton {
+    background-color: black; 
+    width: 75%;
+    border-radius: 0px 20px 0px 0px;
+    border: none; 
+    color: #FFB319;
+    font-size: medium;
+
 }
 table {
     text-align: left;
@@ -62,12 +68,15 @@ table {
 }
 .profile
 {
-    margin: 20px;
-    padding-left: 20px;
+    margin-top: 50px;
+    margin-left: 30px;
+    padding-left: 180px;
+
 }
 .forms {
     margin-left: 0px;
     padding: 10px;
+    height: 50px;
 }
 input {
     margin: 10px 0;
@@ -77,9 +86,13 @@ input {
 .profile {
     border-radius: 5px;
 }
+.profname {
+    margin-top: 50px;
+    margin-left: 20px;
+}
 .formspic {
     float: left;
-    margin: 10px;
+    margin: 0 30px;
     border-radius: 50%;
 }
 .details-icons {
