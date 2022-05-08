@@ -24,6 +24,10 @@ nav ul li {
     text-decoration: none;
     padding: 20px;
     margin-right: 50px;
+
+}
+nav ul li a {
+    color: #EFEFEF;
 }
 nav ul li button {
         margin-left: 20px;
@@ -35,7 +39,7 @@ th {
 td {
     font-size: small;
 }
-a {
+a:hover{
     color: #FFB319;
 }
 .navline {
@@ -46,6 +50,10 @@ a {
     width: 150px;
     border-radius: 0px 20px 0px 0px;
     border: none;
+}
+button:hover {
+    background-color: #1E0411;
+    color: #EFEFEF;
 }
 #profilebutton {
     background-color: black; 
