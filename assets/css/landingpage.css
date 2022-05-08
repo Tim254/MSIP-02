@@ -42,7 +42,7 @@ button a  {
     text-decoration: none;  
 }
 button :hover {
-    
+
 }
 nav ul li a:hover {
     color: #FAFF00
@@ -145,6 +145,7 @@ footer {
     margin: 0;
     color: #EFEFEF;
     background-image: linear-gradient(black,#1E0411);
+    font-family: "Poppins" "Adamina";
 }
 footer a {
     text-decoration: none;
